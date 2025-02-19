@@ -7,7 +7,7 @@
 ✅ **WebSocket subscriptions & real-time updates**  
 ✅ **Automatic handling of file uploads and form-data**  
 ✅ **Global middlewares for rate-limiting, path blocking, and more**  
-✅ **Streaming support for queries, mutations, and form mutations**
+✅ **Streaming support for queries, mutations, and formMutations**
 
 ---
 
