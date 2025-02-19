@@ -21,7 +21,7 @@ import type { BaseContext } from "./types";
 
 // Define custom context type
 export interface CustomContext extends BaseContext {
-  user?: any;
+  user?: User;
 }
 
 const context = createContext<CustomContext>(...)
