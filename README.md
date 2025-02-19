@@ -183,5 +183,5 @@ const routes = {
 ---
 
 ## 🤝 Get Involved
-Interested in contributing or using brpc? Let’s build something great together! 🚀
+Interested in contributing or using brpc? Let me know! 🚀
 
