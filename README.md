@@ -68,7 +68,7 @@ const routes = {
   }),
 };
 ```
-➡️ This will return `"Hello from brpc"` when a `GET` request is made to `/`.
+➡️ This will return `{data:"Hello from brpc"}` when a `GET` request is made to `/`.
 
 ### Serving Static Files
 ```ts
