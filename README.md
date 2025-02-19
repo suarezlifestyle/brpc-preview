@@ -24,8 +24,10 @@ export interface CustomContext extends BaseContext {
   user?: any;
 }
 
+const context = createContext<CustomContext>(...)
+
 const router = createRouter({
-  context: async () => ({} as CustomContext),
+  context: context,
   routes: routes,
   globalMiddlewares: [],
   prefix: "/",
